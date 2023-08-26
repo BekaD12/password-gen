@@ -1,6 +1,8 @@
 <h1 align="center">Password</h1>
 
-https://benoitk.fr/utilities/password/ [Live Preview](https://benoitk.fr/utilities/password/)
+<p>https://benoitk.fr/utilities/password/</p>
+
+[Live Preview](https://benoitk.fr/utilities/password/)
 
 ## Install
 
