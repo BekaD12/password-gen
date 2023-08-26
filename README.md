@@ -1,8 +1,14 @@
-<h1 align="center">Password</h1>
-
-<p>https://benoitk.fr/utilities/password/</p>
+<h1 align="center">Password Generator</h1>
 
 [Live Preview](https://benoitk.fr/utilities/password/)
+
+## About The Project
+
+"Password-gen" is a small app for quickly generating secure passwords
+
+## Build with Vitesse
+
+Vitesse is a starter template to create an app more easily, feel free to check antfu's awesome work - [Vitesse](https://github.com/antfu/vitesse)
 
 ## Install
 
