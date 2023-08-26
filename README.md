@@ -1,6 +1,6 @@
 <h1 align="center">Password</h1>
 
-[Live Preview](https://benoitk.fr/utilites/password)
+https://benoitk.fr/utilities/password/ [Live Preview](https://benoitk.fr/utilities/password/)
 
 ## Install
 
@@ -22,7 +22,7 @@ pnpm run build
 
 ## Todo List
 
-- Make the Length slider react to min max change
+#
 
 ## Author
 
